@@ -1,4 +1,4 @@
-# 🚀 Welcome to Cobalt
+# 💎 Welcome to Cobalt
 
 **Cobalt** is a free and open-source macro client designed for Hypixel Skyblock. Our mission is to provide a reliable and accessible tool that empowers users through automation and customization. 
 
