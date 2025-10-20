@@ -26,8 +26,8 @@ Join our Discord community: [discord.gg/cobaltmod](https://discord.gg/cobaltmod)
 
 ## 🤝 Get Involved
 
-Though we don't have flagship projects currently, we welcome ideas and feedback from all members. 🚧🔧
+Though we don't have flagship projects currently, we welcome ideas and feedback from all members.
 
 ---
 
-*Happy automating! 🤖✨*
+*Happy automating!*
