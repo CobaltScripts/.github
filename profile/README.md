@@ -20,7 +20,7 @@ Using macro clients like Cobalt on Hypixel is against their rules and **can resu
 
 Have questions, want to contribute, or just want to chat?
 
-Join our Discord community: [discord.gg/cobaltmod](https://discord.gg/cobaltmod) 🎉
+Join our Discord community: [discord.gg/cobaltmod](https://cobalt.quiteboring.dev/) 🎉
 
 ---
 
